@@ -1,7 +1,7 @@
 # gulp-demo
 
 
-###Demo project using GULP
+### Demo project using GULP
 
 to combine & minify CSS & JS 
 to compile SASS
