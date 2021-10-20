@@ -1,0 +1,12 @@
+//main.scss
+@import "_variables";
+
+
+body{
+  background: $primary-color;
+  font-family: $font;
+  p{
+    color: $white;
+    background: #ffff03;
+  }
+}
